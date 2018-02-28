@@ -1,0 +1,3 @@
+# runs a filter on commit to set all line endings to lf only.
+* text=auto eol=lf
+
